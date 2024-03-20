@@ -24,15 +24,15 @@
 
 #     return [east, north]
 
-def solution(arr):
-    for i in range(len(arr)):
-        print(str(arr[i]), end="")
-
-        arr = ["1", "2", "3"]
-        solution(arr)
+# def solution(arr):
+#     for i in range(len(arr)):
+#         print(str(arr[i]), end="")
     # print(arr[0], end="") 
     # print(arr[1], end="")
     # print(arr[2], end="")
     
     # answer = 0
     # return answer
+        
+a, b = map(int, input().strip().split(' '))
+print(a, '+' , b ,'=', a+b )
