@@ -34,5 +34,5 @@
     # answer = 0
     # return answer
         
-a, b = map(int, input().strip().split(' '))
-print(a, '+' , b ,'=', a+b )
+# a, b = map(int, input().strip().split(' '))
+# print(a, '+' , b ,'=', a+b )
