@@ -7,7 +7,7 @@
 
 #     return answer
 
-def solution(code):
+def solution(code): 
     answer = ''
     mode = 0
     for i in range(len(code)):
